@@ -1,5 +1,7 @@
 # Predicting-Healthcare-Insurance-Costs-using-Machine-Learnig
 
+Dataset - https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
+
 In this project, I embarked on a journey to estimate healthcare insurance expenses through machine learning, addressing the escalating costs of health insurance. My goal was to leverage data-driven solutions to gain insights into the complex web of health insurance expenses. I explored various machine learning algorithms, including Random Forest, Decision Tree, XGBoost, and LightGBM, to predict medical costs based on factors such as age, sex, BMI, number of children, smoking habits, and region.
 
 I began my exploration by preprocessing the data, checking for duplicates, encoding categorical features, and splitting the dataset into training and testing sets. Afterward, I implemented and evaluated the performance of several machine learning models. The models I experimented with include:
